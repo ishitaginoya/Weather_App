@@ -156,7 +156,7 @@ struct ContentView: View {
                 }
             }
             .frame(height: 117)
-            .background(Color.blue.opacity(0.1))
+            .background(Color.gray.opacity(0.1))
             .cornerRadius(15)
             .padding(.horizontal)
         }
