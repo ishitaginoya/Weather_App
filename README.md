@@ -51,8 +51,8 @@ A weather tracking application built using **Swift** and **SwiftUI**. This app d
     <th>App Review</th>
   </tr>
   <tr>
-    <td><img src="assets/search_view.png" alt="Weather Details" width="300"/></td>
-    <td><img src="relative/path/to/animation.gif" alt="App Review" width="300"/></td>
+    <td><img src="assets/search_weather_detail_view.png" alt="Weather Details" width="300"/></td>
+    <td><img src="weather.gif" alt="App Review" width="300"/></td>
   </tr>
 </table>
 
