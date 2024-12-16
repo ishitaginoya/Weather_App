@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0E75C0BC2D0F3CE40056AEB2 /* NetworkMonitor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkMonitor.swift; sourceTree = "<group>"; };
 		0E75C0BE2D0F46440056AEB2 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		0EC7C5F72D10843D004B6EF5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0EEC19AA2D0DFC3D00E62B37 /* Weather App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Weather App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EEC19AD2D0DFC3D00E62B37 /* Weather_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather_AppApp.swift; sourceTree = "<group>"; };
 		0EEC19AF2D0DFC3D00E62B37 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +63,7 @@
 		0EEC19A12D0DFC3D00E62B37 = {
 			isa = PBXGroup;
 			children = (
+				0EC7C5F72D10843D004B6EF5 /* README.md */,
 				0EEC19AC2D0DFC3D00E62B37 /* Weather App */,
 				0EEC19AB2D0DFC3D00E62B37 /* Products */,
 			);
