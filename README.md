@@ -35,28 +35,6 @@ A weather tracking application built using **Swift** and **SwiftUI**. This app d
 - **Dependency Injection:** Protocol-oriented programming
 
 
-## Screenshots and Demo
-
-<table style="width:100%; text-align:center;">
-  <tr>
-    <th>Home Screen</th>
-    <th>Search Feature</th>
-  </tr>
-  <tr>
-    <td><img src="assets/home_screen.png" alt="Home Screen" width="300"/></td>
-    <td><img src="assets/search_city.gif" alt="Search City" width="300"/></td>
-  </tr>
-  <tr>
-    <th>City Weather Details</th>
-    <th>App Review</th>
-  </tr>
-  <tr>
-    <td><img src="assets/search_weather_detail_view.png" alt="Weather Details" width="300"/></td>
-    <td><img src="weather.gif" alt="App Review" width="300"/></td>
-  </tr>
-</table>
-
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
